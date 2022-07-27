@@ -1,0 +1,13 @@
+id|nome|email|telefone
+INSERT INTO CLIENTE VALUES(NULL, 'Maria', 'maria@techcamps.com', '12345666');
+INSERT INTO CLIENTE VALUES(NULL, 'Michel', 'michel@techcamps.com', '12345888');
+INSERT INTO CLIENTE VALUES(NULL, 'João', 'maria@techcamps.com', '12345777');
+INSERT INTO CLIENTE VALUES(NULL, 'Fernanda', 'fernanda@techcamps.com', '12345999');
+INSERT INTO CLIENTE VALUES(NULL, 'Claudia', 'claudia@techcamps.com', '12345555');
+INSERT INTO CLIENTE VALUES(NULL, 'Betty', 'betty@techcamps.com', '12345678');
+INSERT INTO CLIENTE VALUES(NULL, 'Emanuel', 'emanuel@techcamps.com', '32349950');
+INSERT INTO CLIENTE VALUES(NULL, 'Wall', 'wall@techcamps.com', '52348851');
+INSERT INTO CLIENTE VALUES(NULL, 'Will', 'will@techcamps.com', '42347752');
+INSERT INTO CLIENTE VALUES(NULL, 'Nane', 'nane@techcamps.com', '32346653');
+INSERT INTO CLIENTE VALUES(NULL, 'Eduarda', 'eduarda@techcamps.com', '22343354');
+INSERT INTO CLIENTE VALUES(NULL, 'Junior', 'junior@techcamps.com', '72344459');

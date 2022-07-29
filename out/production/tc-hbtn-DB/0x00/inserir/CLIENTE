@@ -1,0 +1,7 @@
+id|nome|email|telefone
+INSERT INTO CLIENTE VALUES(1, 'Maria', 'maria@techcamps.com', '12345666');
+INSERT INTO CLIENTE VALUES(2, 'Michel', 'michel@techcamps.com', '12345888');
+INSERT INTO CLIENTE VALUES(3, 'João', 'maria@techcamps.com', '12345777');
+INSERT INTO CLIENTE VALUES(4, 'Fernanda', 'fernanda@techcamps.com', '12345999');
+INSERT INTO CLIENTE VALUES(5, 'Claudia', 'claudia@techcamps.com', '12345555');
+INSERT INTO CLIENTE VALUES(6, 'Betty', 'betty@techcamps.com', '12345678');
